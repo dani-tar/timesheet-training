@@ -6,3 +6,4 @@ Work log entry 4 - 45 min
 2026-02-08 | Prosjekt: timesheet-training | Aktivitet: sortering | 15 min
 2026-02-08 | Prosjekt: timesheet-training | Aktivitet: kontroll | 30 min
 2026-02-08 | Prosjekt: timesheet-training | Aktivitet: oppsummering | 15 min
+prosjekt:A 15 min - sortering
